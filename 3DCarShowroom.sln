@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DCarShowroom.CSharp.Plugins", "3DCarShowroom.CSharp.Plugins.csproj", "{43746E08-46E5-2719-5135-3735555253F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DCarShowroom.CSharp", "3DCarShowroom.CSharp.csproj", "{BB529AC5-E3A3-0E7A-4305-3501D774E036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DCarShowroom.CSharp.Editor", "3DCarShowroom.CSharp.Editor.csproj", "{4FA54E32-0232-C489-6C58-4AD75B093D20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43746E08-46E5-2719-5135-3735555253F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43746E08-46E5-2719-5135-3735555253F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43746E08-46E5-2719-5135-3735555253F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43746E08-46E5-2719-5135-3735555253F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB529AC5-E3A3-0E7A-4305-3501D774E036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB529AC5-E3A3-0E7A-4305-3501D774E036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB529AC5-E3A3-0E7A-4305-3501D774E036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB529AC5-E3A3-0E7A-4305-3501D774E036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA54E32-0232-C489-6C58-4AD75B093D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA54E32-0232-C489-6C58-4AD75B093D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA54E32-0232-C489-6C58-4AD75B093D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA54E32-0232-C489-6C58-4AD75B093D20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

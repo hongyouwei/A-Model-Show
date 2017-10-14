@@ -1,0 +1,38 @@
+Initialize engine version: 5.5.3f1 (4d2f809fd6f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0x1287)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+    Driver:   21.21.13.7878
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\LCPrinter.dll (this message is harmless)
+Loading C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\LCPrinter.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Administrator\Desktop\3DCar\3DCarShowroom\Debug\3DCar_PC\3DCar_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.763398 ms
+Creating FingerGestures using Mouse Gestures
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 18b0 -> priority: 1 
+  Thread -> id: 3378 -> priority: 1 

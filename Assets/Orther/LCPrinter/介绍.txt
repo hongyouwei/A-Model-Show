@@ -1,0 +1,29 @@
+下载
+
+
+unity图片打印机脚本LCPrinter - Simple Texture Printer
+
+要求Unity 5.4.0 或更高版本。
+LCPrinter plugin allows you to print a Texture2D to your printer. 
+It only requires one line of code to print an image. 
+
+LCPrinter.Print.PrintTexture(texture2D.EncodeToPNG(), copies, printerName); 
+
+If printerName is empty or null, it will print to your default printer. 
+
+Currently it works on Windows. Every printer should work. 
+
+
+
+
+
+
+
+
+
+声明：
+资源来自互联网，仅限用于学习研究，请勿用于任何商业用途，请下载24小时内删除！
+-------------------------------------
+6m5m是国内最好的、最安全的游戏素材资源3共享与交易网站，提供各种游戏素材下载，游戏素材交易，游戏源码下载，3d游戏模型，2d游戏图片，游戏音效，原创游戏作品等最新的游戏开发资源。
+-------------------------------------
+www.6m5m.com
